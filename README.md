@@ -2,7 +2,7 @@
 
 - ⚙️ Trabalho atualmente como freelancer; Desenvolvendo Sites, Lojas Virtuais e toda parte de Design Gráfico.
 - 🇰 Estudante Kenzie Academy Brasil (Programador Web Fullstack)
-- ⚡ Em 2007 em um fórum de Tibia comecei a conhecer o PHP, MySQL, XML e Lua... além da programação, passei pelo mundo do hardware, design gráfico e edição de vídeo, até me encontrar neste universo e me apaixonar pela tecnologia cada dia mais.
+- ⚡ Apaixonado por tecnologia desde 2007.
 
 <div>
 <a href="https://github.com/danielmtns">
