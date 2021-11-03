@@ -1,7 +1,7 @@
 ### Olá, eu sou o Daniel. Seja bem vindo (a)!
 
 - ⚙️ Trabalho atualmente como freelancer; Desenvolvendo Sites, Lojas Virtuais e toda parte de Design Gráfico.
-- 🇰 Estudante Kenzie Academy Brasil (Programador Web Fullstack)
+- 🇰 Estudante Kenzie Academy Brasil (Programador Web Full Stack)
 - ⚡ Apaixonado por tecnologia desde 2007.
 
 <div>
