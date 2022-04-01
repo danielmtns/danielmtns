@@ -5,9 +5,9 @@
 - ⚡ Apaixonado por tecnologia desde 2004.
 
 <div>
-<a href="https://github.com/danielmtns">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielmtns&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmtns&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/imthedaniel">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=imthedaniel&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthedaniel&layout=compact&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -36,13 +36,13 @@
   ##
  
 <div>
-    <a href="https://www.linkedin.com/in/danielmtns" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/imthedaniel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:sidekoolz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/EhUHpkG3QZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
  
- ![Snake animation](https://github.com/danielmtns/danielmtns/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/imthedaniel/imthedaniel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
