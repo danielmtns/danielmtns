@@ -1,7 +1,7 @@
 ### Olá, eu sou o Daniel. Seja bem vindo (a)!
 
-- ⚙️ Trabalho atualmente com freelances; Desenvolvimento de Sites, Lojas Virtuais, Design Gráfico e Social Media.
-- 👨🏻‍💻 Estudante Kenzie Academy Brasil (Desenvolvedor Fullstack)
+- ⚙️ Estou a procura de empregos para Desenvolvedor Front-end Júnior.
+- 👨🏻‍💻 Recentemente finalizei o curso de Front-End na Kenzie Academy Brasil, aonde passei 6 meses estudando front-end.
 - ⚡ Apaixonado por tecnologia desde 2004.
 
 <div>
