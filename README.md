@@ -1,6 +1,6 @@
 ### Olá, eu sou o Daniel. Seja bem vindo (a)!
 
-- ⚙️ Estou a procura de empregos para Desenvolvedor Front-end Júnior.
+- ⚙️ Estou a procura de um emprego para a vaga de Desenvolvedor Front-end Júnior.
 - 👨🏻‍💻 Recentemente finalizei o curso de Front-End na Kenzie Academy Brasil, aonde passei 6 meses estudando front-end.
 - ⚡ Apaixonado por tecnologia desde 2004.
 
