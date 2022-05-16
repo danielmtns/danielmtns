@@ -1,8 +1,8 @@
 ### Olá, eu sou o Daniel. Seja bem vindo (a)!
 
-- ⚙️ Estou a procura de um emprego para a vaga de Desenvolvedor Front-end Júnior.
-- 👨🏻‍💻 Recentemente finalizei o curso de Front-End na Kenzie Academy Brasil, aonde passei 6 meses estudando front-end.
-- ⚡ Comecei a programar com 14 anos de idade em PHP e Lua, mas preferi seguir na área de hardware. Agora com 28 anos percebi que programação é minha paixão e decidi entrar na área.
+- 👨🏻‍💻 Moro em São José do Rio Preto - SP e tenho 28 anos.
+- 🔎 Estou a procura de uma vaga para Desenvolvedor Front-end Júnior.
+- ✨ Comecei a programar em 2007 com 14 anos de idade em PHP e Lua, mas optei por seguir na área de hardware. Final de 2020 tive a oportunidade de voltar a programar novamente e acabei voltando para a área que sempre foi minha maior paixão.
 
 <div>
 <a href="https://github.com/imthedaniel">
