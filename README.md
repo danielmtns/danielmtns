@@ -2,7 +2,7 @@
 
 - ⚙️ Estou a procura de um emprego para a vaga de Desenvolvedor Front-end Júnior.
 - 👨🏻‍💻 Recentemente finalizei o curso de Front-End na Kenzie Academy Brasil, aonde passei 6 meses estudando front-end.
-- ⚡ Apaixonado por tecnologia desde 2004.
+- ⚡ Comecei a programar com 14 anos de idade em PHP e Lua, mas preferi seguir na área de hardware. Agora com 28 anos percebi que programação é minha paixão e decidi entrar na área.
 
 <div>
 <a href="https://github.com/imthedaniel">
