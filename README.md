@@ -1,8 +1,8 @@
 ### Olá, eu sou o Daniel. Seja bem vindo (a)!
 
 - 👨🏻‍💻 Moro em São José do Rio Preto - SP e tenho 28 anos.
-- 🔎 Estou a procura de uma vaga para Desenvolvedor Front-end Júnior.
-- ✨ Comecei a programar em 2007 com 14 anos de idade em PHP e Lua, mas optei por seguir na área de hardware. Final de 2020 tive a oportunidade de voltar a programar novamente e acabei voltando para a área que sempre foi minha maior paixão.
+- 🔎 Estou a procura de uma vaga para Desenvolvedor Front, Back ou Full Stack.
+- ✨ Comecei a programar em 2004 com 11 anos de idade em PHP e Lua, mas optei por seguir na área de hardware. Em 2020 tive a oportunidade de voltar a programar novamente e acabei voltando para a área que sempre foi minha maior paixão.
 
 <div>
 <a href="https://github.com/imthedaniel">
