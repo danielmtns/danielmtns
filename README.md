@@ -1,7 +1,7 @@
 ### Olá, eu sou o Daniel. Seja bem vindo (a)!
 
 - 👨🏻‍💻 Moro em São José do Rio Preto - SP e tenho 29 anos.
-- ✨ Comecei a programar em 2004 com 11 anos de idade em PHP e Lua, mas optei por seguir na área de hardware. Em 2020 tive a oportunidade de voltar a programar novamente e acabei voltando para a área que sempre foi minha maior paixão.
+- ✨ Comecei a programar em 2004 com 11 anos de idade, com 14 anos já possuia conhecimento em HTML, CSS, JavaScript, PHP, Lua, MySQL, SQL Server e servidores linux. Atualmente trabalho como Desenvolvedor Full Stack, utilizando C# ASP.NET MVC na empresa FocoPDV.
 
 <div>
 <a href="https://github.com/imthedaniel">
@@ -35,16 +35,9 @@
   ##
  
 <div>
+  <a href="https://imthedaniel.dev/" target="_blank"><img src="https://img.shields.io/badge/website-ff0077?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
  <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=imthedaniel&color=333333&style=for-the-badge" target="_blank"></a>
- <a href="https://www.linkedin.com/in/imthedaniel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:hello@imthedaniel.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/eQnfB8H4rS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   
 
-
-
- 
  ![Snake animation](https://github.com/imthedaniel/imthedaniel/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
