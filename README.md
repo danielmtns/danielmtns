@@ -1,7 +1,6 @@
 ### Olá, eu sou o Daniel. Seja bem vindo (a)!
 
-- 👨🏻‍💻 Moro em São José do Rio Preto - SP e tenho 29 anos.
-- ✨ Comecei a programar em 2004 com 11 anos de idade, com 14 anos já possuia conhecimento em HTML, CSS, JavaScript, PHP, Lua, MySQL, SQL Server e servidores linux. Atualmente trabalho como Desenvolvedor Full Stack, utilizando C# ASP.NET MVC na empresa FocoPDV.
+- 👨🏻‍💻 Aqui no meu GitHub você poderá conferir alguns dos projetos que desenvolvi, caso queira mais informações sobre mim, por favor acessar meu linkedin.
 
 <div>
 <a href="https://github.com/imthedaniel">
