@@ -36,6 +36,10 @@
 <div>
   <a href="https://imthedaniel.dev/" target="_blank"><img src="https://img.shields.io/badge/website-ff0077?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
  <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=imthedaniel&color=333333&style=for-the-badge" target="_blank"></a>
+ <a href="[#](https://discord.gg/fullstackoverflow)" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <img alt="Discord" src="https://img.shields.io/discord/905233629096067102">
+
+
 
  ![Snake animation](https://github.com/imthedaniel/imthedaniel/blob/output/github-contribution-grid-snake.svg)
 </div>
